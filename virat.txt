@@ -5,8 +5,5 @@ kotha nela pi
 gali santakam 
 konda gali tho swasa pampakam
 kaduthu sneham
-<<<<<<< HEAD
 nuvvu panche manche malli neeke dorakada
-=======
 tericha hrudayam
->>>>>>> edd3298e932aad5c692154b83d483138a47a0a44
