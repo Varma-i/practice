@@ -2,7 +2,7 @@
 
 read -p " telugu best film maker " director
 
-if [[ $director == "rgv" ]];
+if [[ $director == "vanga" ]];
 
 then
 	echo " his best film is raktacharitra "
