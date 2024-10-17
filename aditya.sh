@@ -6,7 +6,7 @@ if [[ $drugs == "yesu" ]];
 then
 	echo " vilan is inteligent "
 else 
-	echo" vilan is dumb "
+	echo" vilan is erripappa "
 
 fi
 
